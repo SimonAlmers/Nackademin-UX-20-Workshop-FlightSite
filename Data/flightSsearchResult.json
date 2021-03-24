@@ -1,0 +1,44 @@
+{
+  "pagination": {
+    "limit": 20,
+    "offset": 0,
+    "count": 20,
+    "total": 54
+  },
+  "data": [
+    {
+      "flightDate": "2021-03-25",
+      "flightStatus": "scheduled",
+      "ticket": {
+        "price": 2678.95,
+        "currency": "SEK"
+      },
+      "departure": {
+        "airport": "Stockholm Arlanda Airport",
+        "timezone": "Europe/Stockholm",
+        "iata": "ARN",
+        "scheduled": "2021-03-25T04:20:00+00:00"
+      },
+      "arrival": {
+        "airport": "Los Angeles International Airport",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAX",
+        "scheduled": "2021-03-25T04:20:00+00:00"
+      },
+      "airline": {
+        "name": "Scandinavian Airlines",
+        "iata": "SK"
+      },
+      "flight": {
+        "number": "909",
+        "iata": "SK909"
+      },
+      "aircraft": {
+        "registration": "N160AN",
+        "iata": "A321",
+        "icao": "A321",
+        "icao24": "A0F1BB"
+      }
+    }
+  ]
+}
