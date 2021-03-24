@@ -8,7 +8,7 @@ Här hittar ni allt underlag för dagens övning.
 
 ## JSON-Data
 
-Ni hittar exempeldatan i filen [Data/flightSsearchResult.json](.Data/flightSsearchResult.json)
+Ni hittar exempeldatan i filen [Data/flightSsearchResult.json](./Data/flightSsearchResult.json)
 
 ## Logotyper
 
