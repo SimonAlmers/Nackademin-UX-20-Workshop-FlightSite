@@ -10,6 +10,10 @@ Här hittar ni allt underlag för dagens övning.
 
 Ni hittar exempeldatan i filen [Data/flightSsearchResult.json](./Data/flightSsearchResult.json)
 
+## Färger
+
+![Färger](./colors.png)
+
 ## Logotyper
 
 Ni hittar några logotyper för flygbolag i mappen [Logos](./Logos)
