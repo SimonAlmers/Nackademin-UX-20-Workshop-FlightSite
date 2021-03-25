@@ -12,7 +12,7 @@ Ni hittar exempeldatan i filen [Data/flightSsearchResult.json](./Data/flightSsea
 
 ## Färger
 
-![Färger](./colors.png)
+![Färger](https://github.com/SimonAlmers/Nackademin-UX-20-Workshop-FlightSite/blob/master/Colors.png)
 
 ## Logotyper
 
