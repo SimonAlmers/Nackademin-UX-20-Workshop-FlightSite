@@ -8,7 +8,7 @@
   "data": [
     {
       "flightDate": "2021-03-25",
-      "flightStatus": "scheduled",
+      "flightStatus": "active",
       "departure": {
         "airport": "Stockholm Arlanda Airport",
         "timezone": "Europe/Stockholm",
@@ -18,9 +18,9 @@
         "delay": 13,
         "scheduled": "2021-03-25T04:20:00+00:00",
         "estimated": "2021-03-25T04:33:00+00:00",
-        "actual": null,
-        "estimatedRunway": null,
-        "actualRunway": null
+        "actual": "2021-03-25T04:33:00+00:00",
+        "estimatedRunway": "2021-03-25T04:35:00+00:00",
+        "actualRunway": "2021-03-25T04:40:00+00:00"
       },
       "arrival": {
         "airport": "Los Angeles International Airport",
@@ -49,6 +49,16 @@
         "iata": "A321",
         "icao": "A321",
         "icao24": "A0F1BB"
+      },
+      "live": {
+        "updated": "2021-03-25T10:00:00+00:00",
+        "latitude": 46.623712,
+        "longitude": -31.29484,
+        "altitude": 8846.82,
+        "direction": 114.34,
+        "speedHorizontal": 894.348,
+        "speedVertical": 1.188,
+        "isGround": false
       }
     }
   ]
